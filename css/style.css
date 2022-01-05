@@ -59,7 +59,7 @@ img.avatar {
 .info {
     font-weight: 400;
     color: hsl(0, 0%, 59%);
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .name {
@@ -95,5 +95,6 @@ hr {
     z-index: -1;
 }
 .infop {
-    margin:0 20px 0 20px;
+    margin: 22px 35px 22px 20px;
+    font-size: 15px;
 }
