@@ -94,3 +94,6 @@ hr {
     bottom: -308px;
     z-index: -1;
 }
+.followers p {
+    margin:0 20px 0 20px;
+}
